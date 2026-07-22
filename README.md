@@ -9,7 +9,7 @@ tenders, ledgers — I started teaching myself to build software to automate
 it, and kept going.
 
 I'm not a traditional software engineer. I'm a domain expert who builds the
-tools his own job actually needs, working AI-assisted (Python, JavaScript/
+tools my own job actually needs, working AI-assisted (Python, JavaScript/
 TypeScript, Electron, Firebase) since early 2026.
 
 ---
