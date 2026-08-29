@@ -55,4 +55,4 @@ it — it's how I went from zero software background to shipping a tool
 that's now in daily production use, in a matter of months.
 
 ### 📫 Let's connect
-[Portfolio](https://bl0036.github.io) · [LinkedIn](https://linkedin.com/in/bl0036) · [biswaslamichhane00036@gmail.com](mailto:biswaslamichhane00036@gmail.com)
+[Portfolio](https://bl0036.github.io) · [LinkedIn](https://linkedin.com/in/biswas-lamichhane-046927361) · [biswaslamichhane00036@gmail.com](mailto:biswaslamichhane00036@gmail.com)
