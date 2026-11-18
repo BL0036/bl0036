@@ -42,7 +42,6 @@ Inventory & supplier management
 | [KK Ledger](https://github.com/bl0036/k-k) | Deployed, in use | HTML + Firebase business ledger — gave remote mobile access to live data for the first time |
 | [Hamro Kharcha](https://github.com/bl0036/hamro-kharcha) | In use (family) | Budget-tracking PWA with categories, loan-interest, notes, and vault features |
 | [Multi-Utility Tools](https://github.com/bl0036/MULTI-UTILITY-TOOLS) | Public | Web toolkit incl. a Bikram Sambat ↔ AD date converter, built from a real recurring need |
-| [World Cup Prediction Pool](https://github.com/bl0036/worldcupbet) | Seasonal / inactive | A free prediction pool for friends/coworkers — no wagering |
 
 ---
 
